@@ -1,0 +1,31 @@
+body{
+  font-family: 'Chakra Petch', sans-serif;
+  background-color:rgb(200, 208, 221); 
+   display:flex;
+   justify-content: center;
+}
+.sub img{
+   height:100px;
+}
+.container{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  width:700px;
+}
+.sub{
+  
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+}
+#project,#onProject,#groups{
+  margin-left: 20%;
+  font-size:35px;
+  margin-bottom: 0;
+}
+.bottom{
+  font-size: 21px;
+  color:rgb(92, 92, 102); 
+  
+}
